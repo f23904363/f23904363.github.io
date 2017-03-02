@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-  <default.html -->
+  <!-- default.html -->
 <head>
 <meta charset="BIG5">
 <title>用中文寫頁籤</title>
@@ -10,9 +10,9 @@
     <header>my header</header>
     <!-- Write your nav here -->
     <nav>my nav</nav>
-    <section>my section</section>
-    <article>my article</article>
-    <aside>my aside</aside>
-    <footer>my footer</footer>
+    <section>my section </section>
+    <article>my article </article>
+      <aside>my aside </aside>
+        <footer>my footer </footer>
   </body>
 </html>
