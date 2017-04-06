@@ -2,13 +2,13 @@
 This is my css
 */
 
-#MyHeader {
-        width: 1015px;
-        height: 120px;
-        position: relative;
-        margin: 0 auto;
-        background: url(/images/MyHeader.png) no-repeat
-  }
+#myHeader {
+    width: 1015px;
+    height: 120px;
+    position: relative;
+    margin: 0 auto;
+    background: url(/images/MyHeader.png) no-repeat;
+}
 
 a.sitetitle {
     display: block;
