@@ -55,3 +55,20 @@ a.sitetitle {
     line-height: 60px;
     margin-right: 20px;
 }
+
+.myMenu img {
+    vertical-align:middle;
+    }
+    
+.myMenu img ul il a{
+    margin-right: 1px;
+    padding:0 10px;
+    color: white;
+ }
+    
+ #mainContent {
+    clear: both;
+    width: 1015px;
+    margin: 0 auto;
+    padding: 5px 10px 0;
+}
