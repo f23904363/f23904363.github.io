@@ -96,3 +96,9 @@ a.sitetitle {
 .clear {
     clear: both;
 }
+
+footer {
+    clear: both;
+    background: #fff;
+    width: 100%;
+}
